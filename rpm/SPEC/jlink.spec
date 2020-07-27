@@ -8,6 +8,7 @@ URL: https://www.segger.com
 Version: %{version}
 Release: 1
 License: GPL
+Source0: https://freescaleesd.flexnetoperations.com/337170/917/17116917/mcuxpressoide-11.2.0_4120.x86_64.deb.bin
 Requires: libncurses5
 Requires: glibc
 
